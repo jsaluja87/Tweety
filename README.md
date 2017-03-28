@@ -51,15 +51,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jsaluja87/Tweety/blob/master/Codepath_Assignment3_Tweety_03262017.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+Replaced the RAW video walkthrough with a clean GIF walkthrough
 
 Describe any challenges encountered while building the app.
-My emulator crashed. So I could not make a gif. A bad video was what I could do fastest. Unfortunately, the video will have to be downloaded to see.I have uploaded the video at :
-https://github.com/jsaluja87/Tweety/blob/master/Codepath_app3_tweety.MOV
 
 
 ## Open-source libraries used
